@@ -1703,12 +1703,11 @@ antd-mobile@^2.2.3:
     rmc-tabs "~1.2.0"
     rmc-tooltip "~1.0.0"
 
-antd-table-infinity@^1.1.2:
-  version "1.1.2"
-  resolved "https://registry.npmjs.org/antd-table-infinity/-/antd-table-infinity-1.1.2.tgz#da3b173bf81556943e74705d7382dad20876ab86"
-  integrity sha512-CInPPJpnaJ9C9ukOLOLdFYQpLddYlgnNtWjy8XwviMQ79QQaGzVyXUGAZjU/3IYe8iDSGqlk1GHN08hYszt2bg==
+antd-table-infinity@^1.1.6:
+  version "1.1.6"
+  resolved "https://registry.yarnpkg.com/antd-table-infinity/-/antd-table-infinity-1.1.6.tgz#d1932cf1edc743e730ccb46afefa82b33187c253"
+  integrity sha512-aqEPZu2eajrx69rCTn7RHR8M3OwG4Mo9klCmT8mAQZV0h3ZlcOEs8+EFygi83vDNJp8yDbpbYg2TTwi7d6r5RA==
   dependencies:
-    antd-table-infinity "^1.1.2"
     intersection-observer "^0.5.1"
     lodash.throttle "^4.1.1"
 
@@ -7320,15 +7319,15 @@ interpret@^1.0.0:
   resolved "https://registry.npmjs.org/interpret/-/interpret-1.1.0.tgz#7ed1b1410c6a0e0f78cf95d3b8440c63f78b8614"
   integrity sha1-ftGxQQxqDg94z5XTuEQMY/eLhhQ=
 
+intersection-observer@^0.11.0:
+  version "0.11.0"
+  resolved "https://registry.yarnpkg.com/intersection-observer/-/intersection-observer-0.11.0.tgz#f4ea067070326f68393ee161cc0a2ca4c0040c6f"
+  integrity sha512-KZArj2QVnmdud9zTpKf279m2bbGfG+4/kn16UU0NL3pTVl52ZHiJ9IRNSsnn6jaHrL9EGLFM5eWjTx2fz/+zoQ==
+
 intersection-observer@^0.5.1:
   version "0.5.1"
-  resolved "https://registry.npmjs.org/intersection-observer/-/intersection-observer-0.5.1.tgz#e340fc56ce74290fe2b2394d1ce88c4353ac6dfa"
+  resolved "https://registry.yarnpkg.com/intersection-observer/-/intersection-observer-0.5.1.tgz#e340fc56ce74290fe2b2394d1ce88c4353ac6dfa"
   integrity sha512-Zd7Plneq82kiXFixs7bX62YnuZ0BMRci9br7io88LwDyF3V43cQMI+G5IiTlTNTt+LsDUppl19J/M2Fp9UkH6g==
-
-intersection-observer@^0.7.0:
-  version "0.7.0"
-  resolved "https://registry.yarnpkg.com/intersection-observer/-/intersection-observer-0.7.0.tgz#ee16bee978db53516ead2f0a8154b09b400bbdc9"
-  integrity sha512-Id0Fij0HsB/vKWGeBe9PxeY45ttRiBmhFyyt/geBdDHBYNctMRTE3dC1U3ujzz3lap+hVXlEcVaB56kZP/eEUg==
 
 intersperse@^1.0.0:
   version "1.0.0"
